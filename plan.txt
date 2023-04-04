@@ -1,0 +1,15 @@
+/*
+    Board
+        -7 cols, 6 rows
+    Tokens
+        -shape (circle)
+        -**color**
+    Gameplay (User input)
+        -Alternate turns
+        -Mouse input
+        -making the tokens drop
+ */
+
+
+ FFFFFFFFFFFFFFFFFFFFFFFFFFTTTTTTTTTTTTTTTTTTTTTTTTTTTTTFFFFFFFFFFFFFFFFFFFFFFFFF
+
